@@ -63,7 +63,7 @@ java -cp target\parcial-app-1.0-SNAPSHOT.jar edu.escuelaing.arem.arep.App
 
 ```
 
-```
+
 
 Para generar la documentación ejecutamos la siguiente linea:
 
