@@ -36,10 +36,10 @@ public class App
   }
   private static JSONObject inputDataPage(Request req, Response res, String operation)  {
       double number = Double.parseDouble(req.queryParams("value"));
-      JSONObject obj=new JSONObject();    
-      obj.put("operation",operation);    
+      JSONObject obj=new JSONObject();   
+      obj.put("output",(operation.equals("atan"))? cal.arcTangent(number) : cal.eulerTo(number));      
       obj.put("input", number);    
-      obj.put("output",(operation.equals("atan"))? cal.arcTangent(number) : cal.eulerTo(number));    
+      obj.put("operation",operation);
       return obj;
   }
 
