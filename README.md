@@ -1,7 +1,7 @@
 # Parcial segundo corte
 
-Se realizó el desarrollo de una aplicación web cual busca calcular la arco tangente  y euler elevado a la n-esima potencia estandar de un número. 
-La aplicación web retorna un objeto Json con los valores operación,entrada y salida.
+Se realizï¿½ el desarrollo de una aplicaciï¿½n web cual busca calcular la arco tangente  y euler elevado a la n-esima potencia estandar de un nï¿½mero. 
+La aplicaciï¿½n web retorna un objeto Json con los valores operaciï¿½n,entrada y salida.
 
 
 
@@ -11,7 +11,7 @@ La aplicación web retorna un objeto Json con los valores operación,entrada y sal
 
 *  [GIT](https://git-scm.com/) - Control de versiones.
 
-Para estar seguro de las versiónes que posee de maven, git y de java ejecute los siguientes comandos:
+Para estar seguro de las versiï¿½nes que posee de maven, git y de java ejecute los siguientes comandos:
 
 ```
 
@@ -31,7 +31,7 @@ java -version
 
 ```
 
-## Instalación
+## Instalaciï¿½n
 
 Para descargar el proyecto desde GitHub ejecute la siguiente linea:
 
@@ -44,6 +44,16 @@ git clone https://github.com/GYEISSON/Parcial-2-AREP-
 ## UML diagrams  
 
 ![](/recursos/classDiagram.png)  
+
+## Docker repository   
+
+
+![](/recursos/docker.png)   
+
+
+## AWS Configuration  
+
+![](/recursos/awsConfigure.png)   
 
 ## Ejecutar
 
@@ -63,7 +73,7 @@ java -cp target\parcial-app-1.0-SNAPSHOT.jar edu.escuelaing.arem.arep.App
 
 ```
 
-Para generar la documentación ejecutamos la siguiente linea:
+Para generar la documentaciï¿½n ejecutamos la siguiente linea:
 
 ```
 
@@ -71,7 +81,7 @@ mvn javadoc:javadoc
 
 ```
 
-La documentación quedará en la ruta \target\site\apidocs\edu\eci\escuelaing\arep
+La documentaciï¿½n quedarï¿½ en la ruta \target\site\apidocs\edu\eci\escuelaing\arep
 
 ## Ejecutando las pruebas
 
@@ -91,7 +101,7 @@ mvn test
 
 *  [JUNIT](https://junit.org/junit5/) - Framework para realizar y automatizar pruebas.
 
-* Java - Lenguaje de programación.  
+* Java - Lenguaje de programaciï¿½n.  
 
 ## Autor
 
@@ -100,4 +110,4 @@ mvn test
 
 ## Licencia
 
-Este proyecto está bajo la Licencia GNU(General Public License) - mira el archivo [LICENSE](LICENSE) para detalles.
+Este proyecto estï¿½ bajo la Licencia GNU(General Public License) - mira el archivo [LICENSE](LICENSE) para detalles.
