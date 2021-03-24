@@ -1,7 +1,7 @@
 # Parcial segundo corte
 
-Se realiz� el desarrollo de una aplicaci�n web cual busca calcular la arco tangente  y euler elevado a la n-esima potencia estandar de un n�mero. 
-La aplicaci�n web retorna un objeto Json con los valores operaci�n,entrada y salida.
+Se realizó el desarrollo de una aplicaci�n web cual busca calcular la arco tangente  y euler elevado a la n-esima potencia estandar de un número.
+La aplicación web retorna un objeto Json con los valores operación,entrada y salida.
 
 
 
@@ -11,7 +11,7 @@ La aplicaci�n web retorna un objeto Json con los valores operaci�n,entrada y
 
 *  [GIT](https://git-scm.com/) - Control de versiones.
 
-Para estar seguro de las versi�nes que posee de maven, git y de java ejecute los siguientes comandos:
+Para estar seguro de las versiones que posee de maven, git y de java ejecute los siguientes comandos:
 
 ```
 
@@ -31,7 +31,7 @@ java -version
 
 ```
 
-## Instalaci�n
+## Instalación
 
 Para descargar el proyecto desde GitHub ejecute la siguiente linea:
 
@@ -73,7 +73,7 @@ java -cp target\parcial-app-1.0-SNAPSHOT.jar edu.escuelaing.arem.arep.App
 
 ```
 
-Para generar la documentaci�n ejecutamos la siguiente linea:
+Para generar la documentación ejecutamos la siguiente linea:
 
 ```
 
@@ -101,7 +101,7 @@ mvn test
 
 *  [JUNIT](https://junit.org/junit5/) - Framework para realizar y automatizar pruebas.
 
-* Java - Lenguaje de programaci�n.  
+* Java - Lenguaje de programación.  
 
 ## Autor
 
@@ -110,7 +110,7 @@ mvn test
 
 ## Licencia
 
-Este proyecto est� bajo la Licencia GNU(General Public License) - mira el archivo [LICENSE](LICENSE) para detalles.
+Este proyecto está bajo la Licencia GNU(General Public License) - mira el archivo [LICENSE](LICENSE) para detalles.
 
 ## Video  demostrativo   
 
