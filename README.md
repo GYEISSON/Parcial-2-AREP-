@@ -65,9 +65,6 @@ java -cp target\parcial-app-1.0-SNAPSHOT.jar edu.escuelaing.arem.arep.App
 
 Para ejecutar desde Heroku CLI ejecutamos la siguiente linea:
 
-```
-
-heroku local web
 
 ```
 
