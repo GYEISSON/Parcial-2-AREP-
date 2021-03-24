@@ -1,6 +1,6 @@
 # Parcial segundo corte
 
-Se realizó el desarrollo de una aplicaci�n web cual busca calcular la arco tangente  y euler elevado a la n-esima potencia estandar de un número.
+Se realizó el desarrollo de una aplicación web cual busca calcular la arco tangente  y euler elevado a la n-esima potencia estandar de un número.
 La aplicación web retorna un objeto Json con los valores operación,entrada y salida.
 
 
@@ -81,7 +81,7 @@ mvn javadoc:javadoc
 
 ```
 
-La documentaci�n quedar� en la ruta \target\site\apidocs\edu\eci\escuelaing\arep
+La documentación quedará en la ruta \target\site\apidocs\edu\eci\escuelaing\arep
 
 ## Ejecutando las pruebas
 
